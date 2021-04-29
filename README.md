@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning OpenCV and Machine learning algorithms
 - 👯 I’m looking to collaborate on OpenCV projects
 - 🤔 I’m looking for help with Dynamic web hosting
-- 💬 Ask me about webdev frontend/backend tech stuff, Algo doubts. 
+- 💬 Ask me about webdev frontend/backend tech stuff 
 - 😄 Pronouns: He/His
 
 ### Connect with me:
