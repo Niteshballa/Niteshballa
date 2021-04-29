@@ -29,8 +29,8 @@
 <br />
 
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/theniteshballa
+[linkedin]: https://www.linkedin.com/in/nitesh-balla-868b2519b/
 
 
 
