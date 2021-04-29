@@ -53,4 +53,5 @@
 <br />
 <br />
 
-### Find my projects and repositories here <img alt="Down" width="34px" height="100px" src="https://media.giphy.com/media/26vIfVoRG8NrbjfQQ/giphy.gif"/>
+### Find my projects and repositories here <br />
+<img alt="Down" width="34px" align="right" src="https://media.giphy.com/media/26vIfVoRG8NrbjfQQ/giphy.gif"/>
