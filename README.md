@@ -5,9 +5,9 @@
 - 👯 I’m looking to collaborate on OpenCV projects
 - 🤔 I’m looking for help with Dynamic web hosting
 - 💬 Ask me about webdev stuff
-- 📫 How to reach me: 
+- 📫 How to reach me: [Instagram-@Niteshballa](https://www.instagram.com/theniteshballa/)
 - 😄 Pronouns: He/His
 
-- https://github-readme-stats.vercel.app/api?username=Niteshballa&show_icons=true&theme=radical
+- <img src="https://github-readme-stats.vercel.app/api?username=Niteshballa&show_icons=true&theme=radical"/>
 -->
 
