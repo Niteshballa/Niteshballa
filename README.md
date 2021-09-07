@@ -1,11 +1,11 @@
 ### Hello<!--👋--><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> I'm Nitesh Balla 
 
-- 🔭 I’m currently working on Frontend of Space Exploration website
+<!-- - 🔭 I’m currently working on Frontend of Space Exploration website
 - 🌱 I’m currently learning OpenCV and Machine learning algorithms
 - 👯 I’m looking to collaborate on OpenCV projects
 - 🤔 I’m looking for help with Dynamic web hosting
 - 💬 Ask me about webdev frontend/backend tech stuff 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/His-->
 
 ### Connect with me:
 
