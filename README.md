@@ -46,10 +46,6 @@
 [linkedin]: https://www.linkedin.com/in/nitesh-balla-868b2519b/
 
 <br />
-<br />
-
-<br />
-<br />
 
 ### Find my projects and repositories below
 <img alt="Down" width="34px" src="https://media.giphy.com/media/26vIfVoRG8NrbjfQQ/giphy.gif"/>
